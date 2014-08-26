@@ -6,3 +6,13 @@ program list :
 4. sum of the digits
 5. reverse the digits
 
+
+1.add, mul, division, modulo, sub everything in one program
+2. factorial 
+3. fibbonaci
+4.armstrong number
+5.prime or not
+
+
+
+ 
