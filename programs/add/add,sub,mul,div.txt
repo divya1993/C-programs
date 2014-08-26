@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+#include <string.h>
+
+
+main()
+
+{
+ 
+   int firstNum
+, secondNum, add, sub, mul;
+
+   float div;
+ 
+ 
+  printf("Enter two numbers\n");
+
+   scanf("%d%d", &firstNum, &secondNum);
+ 
+ 
+  add = firstNum + secondNum;
+ 
+  sub = firstNum - secondNum;
+ 
+  mul = firstNum * secondNum;
+ 
+  div = firstNum / secondNum;  
+
+ 
+   printf("%d\n",add);
+  
+ printf("%d\n",sub);
+ 
+  printf("%d\n",mul);
+  
+ printf("%f\n",div);
+ 
+
+ }
+
