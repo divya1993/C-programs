@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+#include <string.h>
+
+
+main()
+
+{
+
+int i,number,result;
+ 
+   printf("enter the number");
+ 
+   scanf("%d",&number);
+
+    for(i=0;i<=number;i++)
+  
+  {
+    
+    result = i % 10;
+  
+      if (result==0)
+   
+     printf("%d",i);
+   
+     
+    }
+
+}
