@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+#include <string.h>
+
+
+main()
+
+{
+ 
+   int i,number;
+ 
+   printf("enter the number");
+ 
+   scanf("%d",&number);
+  
+  for(i=0;i<=number;i++)
+ 
+   {
+     
+
+   printf("%d",i);
+ 
+   }
+
+}
